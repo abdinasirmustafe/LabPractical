@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_orange">#4CAF50</color>
+    <color name="brand_black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#06F810</color>
+</resources>
