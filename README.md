@@ -142,11 +142,11 @@ This repository will be updated regularly as I complete additional lessons, proj
 
 ## 👨‍💻 Author
 
-**Mowlid Mohamoud Haibe**
+**Abdinasir Mustafe**
 
 Software Engineer | AI Developer | Android Developer
 
-GitHub: https://github.com/mawlid1431
+
 
 ---
 
